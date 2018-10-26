@@ -1,4 +1,3 @@
-# prework-repo
 ## Hello World App
 
 ### App Description
